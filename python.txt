@@ -1,0 +1,51 @@
+[Section]
+Name = Python 3
+License = GPL/LGPL
+Description = A remarkably powerful dynamic programming language.
+Category = 7
+URLSite = http://www.python.org/
+
+[Section.arm]
+Version = 3.12.4
+URLDownload = https://files.open-rt.party/Software/python-3.12.4-arm.exe
+SHA1 = 
+SizeBytes = 25855540
+
+[Section.0a]
+Description = Un lenguaje de programación dinámico sumamente potente.
+
+[Section.0404]
+Description = 一款非常強大的動態語言。
+
+[Section.0407]
+Description = Sehr mächtige, dynamische Programmiersprache.
+
+[Section.040c]
+Description = Un langage de programmation dynamique remarquablement puissant.
+
+[Section.0410]
+Description = Un Linguaggio di programmazione dinamico e potente.
+
+[Section.0413]
+Description = Een opmerkelijk krachtige dynamische programmeertaal.
+
+[Section.0415]
+Description = Niezwykle potężny dynamiczny język programowania.
+
+[Section.0418]
+Description = Limbaj de programare dinamic și puternic.
+
+[Section.0419]
+Description = Удивительно мощный динамический язык программирования.
+
+[Section.041f]
+Description = Dikkate değer, güçlü ve dinamik bir programlama dili.
+
+[Section.0422]
+Description = Дуже потужна динамічна мова програмування.
+
+[Section.0804]
+Description = 一种非常强大的动态编程语言。
+
+[Section.0813]
+Description = Een opmerkelijk krachtige dynamische programmeertaal.
